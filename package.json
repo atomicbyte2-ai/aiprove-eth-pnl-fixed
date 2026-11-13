@@ -1,0 +1,1 @@
+{"name":"aiprove-eth-pnl-fixed","version":"1.0.0","scripts":{"start":"node backtest.mjs","test":"node backtest.mjs"},"license":"CC0-1.0"}
